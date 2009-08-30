@@ -1,0 +1,6 @@
+Demonstração simples do uso de alguns matchers do RSpec através de um carrinho de compras.
+
+Para executar os testes:
+
+spec cart_spec.rb --format=specdoc --color
+
